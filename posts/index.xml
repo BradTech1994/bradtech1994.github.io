@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Brad Tech Blog</title>
+    <link>https://www.bradtech1994.github.io/posts/</link>
+    <description>Recent content in Posts on Brad Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 13:52:07 -0500</lastBuildDate>
+    <atom:link href="https://www.bradtech1994.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is my first post title!</title>
+      <link>https://www.bradtech1994.github.io/posts/mypost/</link>
+      <pubDate>Wed, 24 Jan 2024 13:52:07 -0500</pubDate>
+      <guid>https://www.bradtech1994.github.io/posts/mypost/</guid>
+      <description>This is the content within my first title!!!</description>
+    </item>
+  </channel>
+</rss>
